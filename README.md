@@ -23,7 +23,7 @@ This application was developed for one of my instructors at my college. He reque
 #####View files after extraction:
 Opens the destination directory in windows explorer after extraction has been completed.
 
-####License
+###License
   Copyright (C) 2015 Tyler Manifold
   
   This file is part of Extractor.
